@@ -1,6 +1,6 @@
 <div align="center">
 
-# Márton 👋
+
 
 ### Full-Stack Developer building systems for events & services
 
