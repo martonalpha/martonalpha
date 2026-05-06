@@ -15,8 +15,4 @@
 
 <p><sub>Prague-based developer creating practical digital products for cultural events, barbershops and small businesses.</sub></p>
 
-<p>
-  <a href="mailto:marton.alphaticket@gmail.com">Email</a> ·
-</p>
-
 </div>
