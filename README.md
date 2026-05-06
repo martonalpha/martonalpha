@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer building systems for events & services
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2600&pause=900&color=111827&center=true&vCenter=true&width=980&height=60&lines=Full-Stack+Developer;Multi-tenant+ticketing+system+for+cultural+events;Reservation+system+for+barbershops;Freelance+Web+Developer+%2B+UX%2FUI+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2600&pause=900&color=111827&center=true&vCenter=true&width=980&height=60&lines=Full-Stack+Developer;Ticketing+system+for+festivals;Reservation+system+for+barbershops;Freelance+Web+Developer+%2B+UX%2FUI+Designer)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Event%20Tech-111827?style=flat-square&logoColor=white" />
@@ -17,8 +17,6 @@
 
 <p>
   <a href="mailto:marton.alphaticket@gmail.com">Email</a> ·
-  <a href="#">Portfolio</a> ·
-  <a href="#">LinkedIn</a>
 </p>
 
 </div>
