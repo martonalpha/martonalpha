@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2600&pause=900&color=0F172A&center=true&vCenter=true&width=900&height=55&lines=Full-Stack+Developer;Multi-tenant+ticketing+for+cultural+events;Barbershop+reservation+systems;Freelance+Web+Developer+%2B+UX%2FUI+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2600&pause=900&color=0F172A&center=true&vCenter=true&width=900&height=55&lines=Full-Stack+Developer;Multi-tenant+ticketing+for+cultural+events;Reservation+systems;Freelance+Web+Developer+%2B+UX%2FUI+Designer)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Event%20Tech-111827?style=flat-square&logoColor=white" />
